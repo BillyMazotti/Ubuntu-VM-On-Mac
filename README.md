@@ -1,4 +1,4 @@
-# Ubuntu-VMn-On-Mac
+# Ubuntu-VM-On-Mac
 Set-up Guide Tips and Tricks for getting Ubuntu running on Macbook with Apple Silicon
 
 For thoses interested in wanting to use Ubuntu on their Macbook, this is the repository for you.
