@@ -25,7 +25,9 @@ Overview of Steps:
 4. Update Linux Kernel for a Better VM Experience
 
 ## 1. Install VMware Fusion
-Download the latet version of VMWare Fusion from their website. At the time of this repo, the lastest version available is 13.5.1 and the website you can download WMWare Fusion from for free is [here](https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_fusion/13_0).
+This tutorial was made using VMware Fusion Player 13.5.1. That said the majority of these steps should in theory be repeatable using the most recent Player or Pro versions of Fusion or Workstation. After Broadcom aquired VMware, the pro versions of VMware were made avaialble as discussed in [this article](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html).
+* Download WMware Fusion from Broadcom [here](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion)
+* Download VMware Workstation from Broadcom [here](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro) 
 
 ## 2. Download the Ubuntu image file
 Dowload an arm64.iso file from Ubuntu's [Old Releases](https://old-releases.ubuntu.com/releases/), [Releases](https://cdimage.ubuntu.com/releases/), or [Daily Build](https://cdimage.ubuntu.com/daily-live/current/). For this tutorial, we'll be downloading the file **ubuntu-20.04.5-live-server-arm64.iso** from [here](https://cdimage.ubuntu.com/releases/20.04/release/).
